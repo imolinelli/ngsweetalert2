@@ -15,9 +15,6 @@
     "webpack-watch": "yarn webpack-build -- --watch",
     "semantic-release": "semantic-release pre && npm publish --access=public && semantic-release post"
   },
-  "dependencies": {
-    "sweetalert2": "^6.6.0"
-  },
   "peerDependencies": {
     "@angular/core": ">=2.0.0"
   },
