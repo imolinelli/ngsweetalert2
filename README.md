@@ -9,7 +9,8 @@
 1) Install via the npm registry:
 
 ```bash
-yarn add @toverux/ngsweetalert2
+npm install sweetalert2 --save
+npm install @imolinelli/ngsweetalert2 --save
 ```
 
 2) Then, import SweetAlert's CSS file, exactly like you're doing usually with vendor styles. Could be a TypeScript `import` with Webpack, a SASS `@import`, or even a `<link>` tag: that depends of you build system.
@@ -17,7 +18,7 @@ yarn add @toverux/ngsweetalert2
 3) Finally, import the module:
 
 ```typescript
-import { SweetAlert2Module } from '@toverux/ngsweetalert2';
+import { SweetAlert2Module } from '@imolinelli/ngsweetalert2';
 
 @NgModule({
     imports: [SweetAlert2Module],
