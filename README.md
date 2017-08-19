@@ -1,4 +1,4 @@
-This os only a fork of https://github.com/toverux/ngsweetalert2 without the dependency on sweetalert2. In my case, this cause a conflict if already is installed.
+This os only a fork of https://github.com/toverux/ngsweetalert2 without the dependency on sweetalert2. In my case, this cause a conflict if already is installed. You need to install both to work (see Installation & Usage)
 
 # Ng[SweetAlert2](https://github.com/limonte/sweetalert2) [![npm version](https://img.shields.io/npm/v/@toverux/ngsweetalert2.svg?style=flat-square)](https://www.npmjs.com/package/@toverux/ngsweetalert2) ![license](https://img.shields.io/github/license/toverux/ngsweetalert2.svg?style=flat-square) ![npm total downloads](https://img.shields.io/npm/dt/@toverux/ngsweetalert2.svg?style=flat-square)
 
